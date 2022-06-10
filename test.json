@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "csp_xpath_tegou",
-      "name": "特狗影视",
+      "name": "兰兰影视",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
