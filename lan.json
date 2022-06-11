@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "csp_77",
-      "name": "🎬77(SP)",
+      "name": "🎬七七(SP)",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -120,13 +120,21 @@
       "filterable": 1
     },
     {
+      "key":"Libvio",
+      "name":"🐼Libvio",
+      "type":3,"api":"csp_Lib",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
       "key": "buka_spider",
-      "name": "📒不卡(SP)",
+      "name": "📒真不卡(SP)",
       "type": 3,
       "api": "csp_Buka",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_xpath_nbys",
@@ -138,13 +146,23 @@
       "filterable": 1
     },
     {
-      "key": "csp_Dy1990",
+      "key":"9E03",
+      "name":"9E03",
+      "type":3,
+      "api":"csp_AppYsV2",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"
+    },
+    {
+      "key": "csp_DY1990",
       "name": "1990电影(SP)",
       "type": 3,
       "api": "csp_DY1990",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "push_agent",
@@ -162,8 +180,8 @@
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "网上自己找XBIUBIU"
+      "filterable": 1,
+      "ext": "https://takoph.github.io/lin/MeowXB/乐猪影视.json"
     },
     {
       "key": "csp_biubiu_lgyy",
@@ -233,7 +251,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL3hpbjQ2LmV2YWkucGwvaGRmLnR4dA=="
+            "https://takoph.github.io/lin/tv/live.txt"
           ]
         }
       ]
