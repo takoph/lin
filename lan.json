@@ -21,7 +21,7 @@
     },
     {
       "key": "喜鹊视频",
-      "name": "喜鹊视频",
+      "name": "起飞影视",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -39,7 +39,7 @@
       "filterable": 0
     },
     {
-      "key": "360_spider",
+      "key": "csp_SP360",
       "name": "📺360(官源)",
       "type": 3,
       "api": "csp_SP360",
@@ -66,7 +66,7 @@
       "filterable": 0
     },
     {
-      "key": "csp_kuaikan",
+      "key": "csp_Kuaikan",
       "name": "👀快看(SP)",
       "type": 3,
       "api": "csp_Kuaikan",
@@ -84,8 +84,8 @@
       "filterable": 1
     },
     {
-      "key": "csp_zxzj",
-      "name": "📗在线(SP)",
+      "key": "csp_Zxzj",
+      "name": "📗在线之家(SP)",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
