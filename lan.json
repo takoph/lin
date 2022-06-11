@@ -274,15 +274,20 @@
     }
   ],
   "lives": [
-    {"group":"高画质台","channels":[{"name":"CCTV-1","urls":["http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1",
+    {"group":"高画质台","channels":[
+      {"name":"CCTV-1","urls":["CCTV1,http://111.20.106.13:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$移动超清1080P",
             "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8",
             "http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8",
             "http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8",
-            "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8"]},{"name":"CCTV-2","urls":["http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2",
-            "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8"]},{"name":"CCTV-3","urls":["http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3",
+            "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8"]},
+                                {"name":"CCTV-2","urls":["http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2",
+            "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8"]},
+                                {"name":"CCTV-3","urls":["http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3",
             "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8",
-            "http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8"]},{"name":"CCTV-4","urls":["http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4",
-            "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8"]},{"name":"CCTV-5","urls":["http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5",
+            "http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8"]},
+                                {"name":"CCTV-4","urls":["http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4",
+            "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8"]},
+                                {"name":"CCTV-5","urls":["http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5",
             "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8",
             "http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8"]},{"name":"CCTV-5+","urls":["http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus",
             "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8"]},{"name":"CCTV-6","urls":["http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6",
@@ -596,5 +601,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "http://127.0.0.1:8080/files/BL0608.jar"
+  "spider": "https://takoph.github.io/lin/lan.jar"
 }
