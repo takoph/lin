@@ -20,6 +20,16 @@
       "ext": "https://takoph.github.io/lin/tete.json"
     },
     {
+      "key": "喜鹊视频",
+      "name": "喜鹊视频",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://takoph.github.io/lin/xique.json"
+    }
+    {
       "key": "腾讯官网",
       "name": "腾讯官网",
       "type": 1,
@@ -189,11 +199,11 @@
       "key": "csp_xpath_huya",
       "name": "虎牙直播",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_XPathMacFilter",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "网上自己找XPATH"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://takoph.github.io/lin/MeowXP/huya2.json"
     },
     {
       "key": "csp_xpath_hdmoli",
