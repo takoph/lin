@@ -20,6 +20,16 @@
       "ext": "https://takoph.github.io/lin/tete.json"
     },
     {
+      "key": "花猫影视",
+      "name": "花猫影视",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://takoph.github.io/lin/huamao.json"
+    },   
+    {
       "key": "喜鹊视频",
       "name": "起飞影视",
       "type": 3,
