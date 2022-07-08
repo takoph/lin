@@ -1,6 +1,6 @@
 
 {
-"spider":"http://takoph.evai.pl/tv/QJ0706.jar",
+"spider":"https://takoph.github.io/lin/QJ0706.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3Rha29waC5ldmFpLnBsL2tpbm8vbGl2ZS50eHQ="]}]}],
 
 "sites":[
