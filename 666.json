@@ -1,5 +1,5 @@
 ﻿{
-  "spider":"https://pan.css.lc/api/v3/file/get/76402/666.jar?sign=FoIuL5BQu8O-PIz252-hPHG0AiQpYc9GrMzNO-x219Q%3D%3A0",
+  "spider":"https://gitee.com/takoph/lin/blob/master/666.jar",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vdGFrb3BoL2xpbi9yYXcvbWFzdGVyL2xpdmUudHh0"]}]}],
 
   "sites":[
