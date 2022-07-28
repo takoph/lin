@@ -157,8 +157,8 @@
     {"key":"csp_Tkys","name":"🌈天空影视(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Wmkk","name":"🔭完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
     {"key":"考拉直链","name":"🎍考拉直链","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key": "花猫影视","name": "🎾花猫影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://takoph.evai.pl/kino/huamao.json"},
-{"key": "csp_xpath_tegou","name": "🐩特狗影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://takoph.evai.pl/kino/tegou.json"},
+{"key": "花猫影视","name": "🎾花猫影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/takoph/kino/raw/branch/master/huamao.json"},
+{"key": "csp_xpath_tegou","name": "🐩特狗影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/takoph/kino/raw/branch/master/tegou.json"},
         {
             "key": "csp_XBiubiubiubiu_lezhu",
             "name": "🐷乐猪影视(XB)",
@@ -167,7 +167,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://takoph.evai.pl/kino/乐猪XB.json"
+            "ext": "https://gitee.com/takoph/kino/raw/master/乐猪XB.json"
         },
         {
             "key": "csp_biubiu_蓝光影院",
@@ -325,15 +325,10 @@
     ],
 
     
-    "parses": [
+ "parses": [
     {"name":"解析聚合","type":3,"url":"Demo"},
     {"name":"Json并发","type":2,"url":"Parallel"},
     {"name":"Json轮询", "type":2, "url":"Sequence"},  
-    {
-    "name":"fuqi",
-    "type":1,
-    "url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="
-    },
     {
     "name": "ceshi",
     "type": 1,
@@ -346,8 +341,11 @@
     {
     "name":"nxflv","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
     },
-    
-    {"name":"未知","type":1,"url":"http://106.52.218.221:88/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+    {
+    "name":"fuqi",
+    "type":1,
+    "url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="
+    },
     {
     "name":"yemu",
     "type":0,
