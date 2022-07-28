@@ -1,6 +1,6 @@
 ﻿{
-  "spider":"https://pan.css.lc/api/v3/file/get/76402/666.jar?sign=FoIuL5BQu8O-PIz252-hPHG0AiQpYc9GrMzNO-x219Q%3D%3A0",
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vdGFrb3BoL2xpbi9yYXcvbWFzdGVyL2xpdmUudHh0"]}]}],
+  "spider":"https://gitea.com/takoph/lin/raw/branch/main/666.jar",
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vdGFrb3BoL2xpbi9yYXcvYnJhbmNoL21haW4vbGl2ZS50eHQ="]}]}],
 
   "sites":[
     {"key":"csp_Kunyu77","name":"👒艾兰影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},  
