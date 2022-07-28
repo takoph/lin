@@ -157,8 +157,8 @@
     {"key":"csp_Tkys","name":"🌈天空影视(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Wmkk","name":"🔭完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
     {"key":"考拉直链","name":"🎍考拉直链","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key": "花猫影视","name": "🎾花猫影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/takoph/kino/raw/branch/master/huamao.json"},
-{"key": "csp_xpath_tegou","name": "🐩特狗影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/takoph/kino/raw/branch/master/tegou.json"},
+{"key": "花猫影视","name": "🎾花猫影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/takoph/lin/raw/branch/main/huamao.json"},
+{"key": "csp_xpath_tegou","name": "🐩特狗影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/takoph/lin/raw/branch/main/tegou.json"},
         {
             "key": "csp_XBiubiubiubiu_lezhu",
             "name": "🐷乐猪影视(XB)",
