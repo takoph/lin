@@ -3,7 +3,7 @@
 "spider":"https://gitee.com/takoph/lin/blob/master/qj0728.jar;md5;1eb59159dca9bded71c83e6ae0cd9598",
 
 //"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-"wallpaper":"https://gitee.com/takoph/lin/raw/master/img/img08.jpeg",
+"wallpaper":"https://gitee.com/takoph/lin/raw/master/img/img08.png",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
